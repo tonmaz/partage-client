@@ -1,0 +1,6 @@
+.start {
+  @apply pt-0 max-w-full w-full leading-extra-loose;
+  background: red;
+  font-size: 2rem;
+  letter-spacing: 0.4px;
+}

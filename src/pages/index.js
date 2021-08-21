@@ -1,3 +1,5 @@
+import "../configureAmplify";
+
 export default function Home() {
   return (
     <div>

@@ -44,9 +44,8 @@ module.exports = (phase) => {
   // next.config.js object
   return nextTranslate({
     env,
-    future: {
-      webpack5: false,
-    },
+    webpack5: true,
+   
     reactStrictMode: true,
   });
 };
